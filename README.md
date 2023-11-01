@@ -1,0 +1,3 @@
+# Shopping-cart_welcome
+this web-page lets the user shoop on the web but dependes what he is allowed
+some people can add and remove and some people dont get that option...
